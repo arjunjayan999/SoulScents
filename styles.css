@@ -429,9 +429,9 @@ img {
   transition: background 0s;
 }
 
-.zoominDown-animation {
+.zoomIn-animation {
   /* Animation from Animate.css */
-  animation: zoomInDown;
+  animation: zoomIn;
   animation-duration: 1s;
 }
 
@@ -818,7 +818,7 @@ img {
   font-family: "Lato", sans-serif;
   text-align: center;
   margin: 5rem 5rem 0px;
-  background: rgba(255, 255, 255, 0.2);
+  background: rgba(255, 255, 255, 0.6);
   border-radius: 10px;
   backdrop-filter: blur(10px);
   border: 1px solid rgba(255, 255, 255, 0.5);
@@ -847,7 +847,7 @@ img {
     border-bottom-right-radius: 10px;
   }
   &:hover {
-    background: rgba(255, 255, 255, 0.4);
+    background: rgba(255, 255, 255, 0.5);
     backdrop-filter: blur(0px);
     box-shadow: 0 8px 16px rgba(0, 0, 0, 0.3);
   }
