@@ -105,8 +105,8 @@ img {
 }
 
 .navbar-logo {
-  width: 65px;
-  height: 65px;
+  width: 60px;
+  height: 50px;
   margin-left: 1.3rem;
 }
 
@@ -448,7 +448,7 @@ img {
   width: 170px;
   background: url("./images/logonotext.png") center center/cover no-repeat;
   background-size: 0px;
-  background-position: 7px 22px;
+  background-position: 6px 53px;
   transition: all 0.3s ease-in;
   animation: bounce-in;
   animation-duration: 1s;
