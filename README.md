@@ -1,11 +1,29 @@
 # SoulScents
 
-A front-end website for Incense Business.
+SoulScents is a front-end website for an Incense Business.
 
-## Description
+## Table of Contents
 
-SoulScents is a website project designed to promote and sell incense products. The website is built using HTML, CSS, and JavaScript to provide a clean and responsive user interface.
+- [Features](#features)
+- [Installation](#installation)
+- [Usage](#usage)
+
+## Features
+
+- Provides an elegant and responsive UI for showcasing incense products.
+- Includes sections for product details, pricing, and contact information.
+
+## Installation
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/arjunjayan999/SoulScents.git
+   ```
+2. Navigate to the project directory:
+   ```bash
+   cd SoulScents
+   ```
 
 ## Usage
 
-Simply open the website in your browser to explore the incense products and experience the clean, responsive design.
+1. Open the `index.html` file in your preferred web browser to view the website.
