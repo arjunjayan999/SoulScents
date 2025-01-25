@@ -572,9 +572,8 @@ img {
 
 @media (max-width: 768px) {
   .waves {
-    bottom: -550px;
-    height: 40px;
-    min-height: 40px;
+    height: 0px;
+    min-height: 0px;
   }
 }
 @media (max-height: 568px) {
