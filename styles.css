@@ -519,7 +519,7 @@ img {
 
 /* Waves Animation */
 .wave-section {
-  height: 0vh;
+  height: 0dvh;
   background-color: black;
 }
 
